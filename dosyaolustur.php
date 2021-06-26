@@ -1,0 +1,2 @@
+<?php
+touch("silinmekicindogdum.txt");
